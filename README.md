@@ -1,8 +1,6 @@
 # ey_rcrapsjs
 > JavaScript - childNodes
-> ```javascript
-document.body.childNodes;
-```
+> document.body.childNodes;
 > ```javascript
 document.body.childNodes[0];
 ```
